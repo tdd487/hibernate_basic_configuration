@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="hibernate">
+    <CLASSES>
+      <root url="jar://F:/hibernate视频/一般项目需要的jar/antlr-2.7.6.jar!/" />
+      <root url="jar://F:/hibernate视频/一般项目需要的jar/commons-collections-3.1.jar!/" />
+      <root url="jar://F:/hibernate视频/一般项目需要的jar/commons-logging-1.1.1.jar!/" />
+      <root url="jar://F:/hibernate视频/一般项目需要的jar/dom4j-1.6.1.jar!/" />
+      <root url="jar://F:/hibernate视频/一般项目需要的jar/ehcache-1.2.3.jar!/" />
+      <root url="jar://F:/hibernate视频/一般项目需要的jar/ejb3-persistence.jar!/" />
+      <root url="jar://F:/hibernate视频/一般项目需要的jar/hibernate-annotations.jar!/" />
+      <root url="jar://F:/hibernate视频/一般项目需要的jar/hibernate-commons-annotations.jar!/" />
+      <root url="jar://F:/hibernate视频/一般项目需要的jar/hibernate3.jar!/" />
+      <root url="jar://F:/hibernate视频/一般项目需要的jar/javassist-3.9.0.GA.jar!/" />
+      <root url="jar://F:/hibernate视频/一般项目需要的jar/jta-1.1.jar!/" />
+      <root url="jar://F:/hibernate视频/一般项目需要的jar/log4j-1.2.15.jar!/" />
+      <root url="jar://F:/hibernate视频/一般项目需要的jar/slf4j-api-1.5.8.jar!/" />
+      <root url="jar://F:/hibernate视频/一般项目需要的jar/slf4j-log4j12-1.5.8.jar!/" />
+      <root url="jar://F:/hibernate视频/一般项目需要的jar/mysql-connector-java-5.1.21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
