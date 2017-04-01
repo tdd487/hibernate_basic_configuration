@@ -27,11 +27,12 @@
 
         <!-- Echo all executed SQL to stdout -->
         <property name="show_sql">true</property>
+        <!-- 格式化show_sql，哈哈哈-->
         <property name="format_sql">true</property>
 
         <!-- Drop and re-create the database schema on startup -->
         <property name="hbm2ddl.auto">update</property>
-		<mapping class="com.bjsxt.hibernate.Teacher"/>
+		<mapping class="com.tdd.hibernate.Teacher"/>
     </session-factory>
 
 </hibernate-configuration>

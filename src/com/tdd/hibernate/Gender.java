@@ -1,4 +1,4 @@
-package com.bjsxt.hibernate;
+package com.tdd.hibernate;
 
 public enum Gender {
 	MALE, FEMALE
